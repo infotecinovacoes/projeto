@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+@media (min-width: 768px) {
+
+    /* div1 */
+
+    .div1 img {
+        width: 100%;
+        display: flex;
+        object-fit: cover;
+        margin: 0 auto;
+    }
+
+    /* div1 */
+
+}
